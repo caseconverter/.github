@@ -12,14 +12,14 @@ Case Converter started with a simple idea: to make text transformation tasks a b
 
 We believe in the power of community and are always on the lookout for enthusiastic individuals who share our vision. Here are a few ways you can contribute:
 
-- **Contribute to our codebase:** Check out our [repositories](https://github.com/CaseConverter) for projects you can dive into. We welcome pull requests!
+- **Contribute to our codebase:** Check out our [repositories](https://github.com/caseconverter) for projects you can dive into. We welcome pull requests!
 - **Spread the word:** Love using Case Converter? Share your experiences on social media and help us reach more people.
 - **Provide feedback:** Got ideas on how to improve Case Converter? Encounter a bug? Let us know through GitHub issues.
 
 ### 👩‍💻 Useful resources
 
-- **Documentation:** For detailed information on how to use our tools and contribute, visit our [GitHub Wiki](https://github.com/CaseConverter/CaseConverter/wiki).
-- **Support:** Need help or have questions? Post them in our [GitHub Discussions](https://github.com/CaseConverter/CaseConverter/discussions).
+- **Documentation:** For detailed information on how to use our tools and contribute, visit our [GitHub Wiki](https://github.com/caseconverter/caseconverter/wiki).
+- **Support:** Need help or have questions? Post them in our [GitHub Discussions](https://github.com/caseconverter/caseconverter/discussions).
 
 ### 🍿 Fun facts
 
