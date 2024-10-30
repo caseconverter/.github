@@ -12,7 +12,7 @@ Case Converter started with a simple idea: to make text transformation tasks a b
 
 We believe in the power of community and are always on the lookout for enthusiastic individuals who share our vision. Here are a few ways you can contribute:
 
-- **Contribute to our codebase:** Check out our [repositories](https://github.com/caseconverter) for projects you can dive into. We welcome pull requests!
+- **Contribute to our codebase:** Check out our [repositories](https://github.com/caseconverter/repositories) for projects you can dive into. We welcome pull requests!
 - **Spread the word:** Love using Case Converter? Share your experiences on social media and help us reach more people.
 - **Provide feedback:** Got ideas on how to improve Case Converter? Encounter a bug? Let us know through GitHub issues.
 
@@ -21,9 +21,13 @@ We believe in the power of community and are always on the lookout for enthusias
 - **Documentation:** For detailed information on how to use our tools and contribute, visit our [GitHub Wiki](https://github.com/caseconverter/caseconverter/wiki).
 - **Support:** Need help or have questions? Post them in our [GitHub Discussions](https://github.com/orgs/caseconverter/discussions).
 
-### 🍿 Fun facts
+### 📱 Stay Connected
 
-What does our team eat for breakfast? While our choices vary widely from coffee and croissants to smoothies and scrambled eggs, one thing's for certain—we all start our day fueled and ready to tackle the challenges of text transformation!
+Follow us on social media to keep up with the latest updates, tips, and community news:
+
+- **YouTube:** [Case Converter Channel](https://www.youtube.com/@case-converter) - Watch tutorials and demos!
+- **Twitter:** [@CaseConverter](https://twitter.com/caseconvertercc) - Join the conversation and share your thoughts!
+- **LinkedIn:** [Case Converter on LinkedIn](https://www.linkedin.com/company/case-converter) - Connect with us professionally!
 
 ### 🧙 Remember
 
