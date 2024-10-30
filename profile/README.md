@@ -19,7 +19,7 @@ We believe in the power of community and are always on the lookout for enthusias
 ### 👩‍💻 Useful resources
 
 - **Documentation:** For detailed information on how to use our tools and contribute, visit our [GitHub Wiki](https://github.com/caseconverter/caseconverter/wiki).
-- **Support:** Need help or have questions? Post them in our [GitHub Discussions](https://github.com/caseconverter/discussions).
+- **Support:** Need help or have questions? Post them in our [GitHub Discussions](https://github.com/orgs/caseconverter/discussions).
 
 ### 🍿 Fun facts
 
