@@ -26,7 +26,7 @@ We believe in the power of community and are always on the lookout for enthusias
 Follow us on social media to keep up with the latest updates, tips, and community news:
 
 - **YouTube:** [Case Converter Channel](https://www.youtube.com/@case-converter) - Watch tutorials and demos!
-- **Twitter:** [@CaseConverter](https://twitter.com/caseconvertercc) - Join the conversation and share your thoughts!
+- **Twitter:** [@CaseConverter](https://x.com/caseconvertercc) - Join the conversation and share your thoughts!
 - **LinkedIn:** [Case Converter on LinkedIn](https://www.linkedin.com/company/case-converter) - Connect with us professionally!
 - **Facebook:** [Case Converter on Facebook](https://www.facebook.com/caseconvertercc) - Like our page for updates and news!
 
