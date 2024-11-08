@@ -27,7 +27,7 @@ Follow us on social media to keep up with the latest updates, tips, and communit
 
 - **YouTube:** [Case Converter Channel](https://www.youtube.com/@case-converter) - Watch tutorials and demos!
 - **Twitter:** [@CaseConverter](https://x.com/caseconvertercc) - Join the conversation and share your thoughts!
-- **LinkedIn:** [Case Converter on LinkedIn](https://www.linkedin.com/company/case-converter) - Connect with us professionally!
+- **LinkedIn:** [Case Converter on LinkedIn](https://www.linkedin.com/company/case-converter/) - Connect with us professionally!
 - **Facebook:** [Case Converter on Facebook](https://www.facebook.com/caseconvertercc) - Like our page for updates and news!
 
 ### 🧙 Remember
