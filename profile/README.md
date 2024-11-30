@@ -29,6 +29,7 @@ Follow us on social media to keep up with the latest updates, tips, and communit
 - **Twitter:** [@CaseConverter](https://x.com/caseconvertercc) - Join the conversation and share your thoughts!
 - **LinkedIn:** [Case Converter on LinkedIn](https://www.linkedin.com/company/case-converter/) - Connect with us professionally!
 - **Facebook:** [Case Converter on Facebook](https://www.facebook.com/caseconvertercc) - Like our page for updates and news!
+- **Instagram:** [@CaseConverterCC](https://www.instagram.com/case.converter) - Follow us for visuals, tips, and updates!
 
 ### 🧙 Remember
 
